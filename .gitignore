@@ -1,0 +1,15 @@
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model checkpoints
+checkpoints/
+*/checkpoints/
+
+# Ignore MP4 files
+*.mp4
+
+
+*.ipynb
